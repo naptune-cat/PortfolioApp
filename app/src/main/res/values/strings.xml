@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Portfolio App</string>
+    <string name="zoya_khanam">Zoya Khanam</string>
+    <string name="software_engineer">Software Engineer/Android Developer</string>
+    <string name="skills">Skills</string>
+    <string name="education">Education</string>
+    <string name="work">Work</string>
+    <string name="projects">Projects</string>
+    <string name="baderia_global_institute_of_engineering_and_management">" Baderia Global Institute of Engineering and Management \\n 2021-2025 \\n CGPA 8.20"</string>
+    <string name="twelfth">Mispa Mission Higher Secondary School \n 2020-2021 \n Percentage- 92.6</string>
+    <string name="tenth">Mispa Mission Higher Secondary School \n 2018-2019 \n Percentage- 92.8</string>
+</resources>
